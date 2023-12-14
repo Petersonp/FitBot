@@ -1,0 +1,62 @@
+rid,Name,Time,"Meal (1=B, 2=L/D, 3=S)",Calories,Protein,Fats,Carbs,Tags,Source
+1,Stir-friend orange beef,30,2,261,23,9,23,Beef,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+2,Mediterranean Kabobs,25,2,202,18,11,9,Beef,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+3,Beef Casserole,55,2,201,9,5,31,Beef,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+4,Thai-style Chicken Curry,45,2,207,23,7,14,Chicken,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+5,Sweet-and-sour Chicken,30,2,221,23,6,21,Chicken,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+6,Chicken Picadillo,40,2,162,18,5,13,Chicken,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+7,Salmon Tacos,35,2,325,24,11,29,Seafood,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+8,Baked Salmon Dijon,30,2,196,27,7,5,Seafood,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+9,Pork Chops in Warm Cherry Sauce,30,2,374,34,7,31,Pork,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+10,Baked Pork Chops,45,2,216,25,8,10,Pork,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+11,Mushroom Penne,30,2,418,9,10,26,"Pasta, Carbs",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+12,Pasta Caprese,21,2,342,13,10,52,"Pasta, Carbs",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+13,Chicken with Angel Hair Pasta,30,2,452,31,10,66,"Pasta, Carbs, Chicken",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+14,Turkey Bolognese with Shell Pasta,40,2,463,35,9,47,"Pasta, Carbs, Turkey",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+15,Low-fat Macaroni and Cheese,45,2,200,11,4,29,"Pasta, Low fat",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+16,Tuscan Beans with Tomatoes and Oregano,15,2,265,12,10,35,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+17,Caribbean Casserole,20,2,185,7,1,37,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+18,Red beans and Rice,30,2,344,18,5,57,"Vegetarian, Rice",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+19,Corn and Black Bean Burritos,25,2,189,8,3,34,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+20,Lentils with Brown Rice and Kale,40,2,456,21,9,77,"Vegetarian, Rice",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+21,Broccoli with Asian Tofu,40,2,183,14,11,13,"Vegetarian, Tofu",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+22,Buttermilk Corn Pancakes with Bacon,40,1,792,48,35,52,Pork,https://www.bbcgoodfood.com/recipes/buttermilk-corn-pancakes-with-bacon-maple-syrup
+23,Corn Casserole,40,1,214,7,5.5,36,Vegetarian,https://fns-prod.azureedge.us/sites/default/files/resource-files/HarvestofRecipes.pdf
+24,Green Onion Omelet,20,1,184,15,7,16,Egg,https://fns-prod.azureedge.us/sites/default/files/resource-files/HarvestofRecipes.pdf
+25,Rice Pudding,25,1,159,5,1.2,31,Rice,https://fns-prod.azureedge.us/sites/default/files/resource-files/HarvestofRecipes.pdf
+26,Crispy Chickpea Trail Mix,45,3,187,6,11,15,"Vegan, Vegetarian",https://www.everydayhealth.com/diet-and-nutrition-pictures/snacks-under-200-calories.aspx
+27,Apple Peanut Butter Energy Balls,45,3,246,5,1,36,"Vegetarian, Vegan",https://www.eatingwell.com/apple-peanut-butter-energy-balls-8364376
+28,Almond Date Bars,10,3,143,3,7,21,Vegetarian,https://www.eatingwell.com/almond-date-bars-7969228
+29,Pistachio & Peach Toast,5,3,193,8,6,29,"Vegetarian, Vegan",https://www.eatingwell.com/recipe/267207/pistachio-peach-toast/
+30,Peanut Butter-Chocolate Chip Oatmeal Cakes,50,3,204,7,9,24,Vegetarian,https://www.eatingwell.com/recipe/7991713/breakfast-peanut-butter-chocolate-chip-oatmeal-cakes/
+31,Bread with Peanut Butter,5,3,166,7,9,16,"Vegetarian, Vegan",https://www.eatingwell.com/recipe/263538/bread-with-peanut-butter/
+32,Cream Cheese Stuffed Dates,10,3,96,1,3,19,"Vegetarian, Vegan",https://nutriciously.com/cream-cheese-stuffed-dates/
+33,Almost-Everything Trail Mix,5,3,168,2.7,12.8,13.1,"Vegan, Vegetarian",https://simple-veganista.com/almost-everything-trail-mix/
+34,Mushroom Avocado Toast,10,3,248,8,12.3,32.2,"Vegetarian, Vegan",https://minimalistbaker.com/10-minute-mushroom-avocado-toast/#wprm-recipe-container-97756
+35,Raspberry Lemon Chia Pudding,20,3,296,7,21,24,"Vegetarian, Vegan",https://nutriciously.com/lemon-chia-pudding/
+36,Stuffed Avocados ,15,3,140,2.3,11.6,9.6,"Vegetarian, Vegan",https://simple-veganista.com/stuffed-avocados/#tasty-recipes-8661-jump-target
+37,BLT Frittata,20,1,313,21,23,4,"Eggs, Pork",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+38,Blueberry Crepes,10,1,355,9,27,22,Eggs,https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+39,Breakfast Quesadillas,8,1,362,18,18,30,"Eggs, Pork",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+40,Breakfast Rainbow Hash,10,1,431,43,22,14,"TURKEY, EGGS",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+41,Breakfast Taquitos,10,1,422,18,28,26,"Sausage, Eggs",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+42,Egg Stuffed Avocados,2,1,293,10,25,9,Eggs,https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+43,Ham Breakfast Roll Up,10,1,259,18,17,7,"Eggs, pork",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+44,Portebello Bacon Avocado Breakfast Sandwich,9,1,320,18,19,8,"Eggs, pork",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+45,Sausage and Egg Muffins,5,1,289,18,24,1,"Sausage, Eggs",https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+46,tomato egg cups,10,1,187,15,10,10,eggs,https://s3.us-east-2.amazonaws.com/iifym-pdf/IIFYM_100-recipe_ebook.pdf
+47,three-bean chili with chunky tomatoes,30,2,443,22,8,73,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+48,caribbean pink beans,60,3,133,6,0,28,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+49,edamame stew,40,2,285,16,10,40,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+50,tofu stir-fry with spicy sauce,50,2,232,16,10,23,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+51,asparagus with lemon sauce,15,3,39,2,0,7,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+52,cauliflower with whole-wheat breadcrumbs,20,3,45,2,4,5,Vegetarian,https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+53,"couscous with carrots, walnuts, and raisins",17,3,218,6,4,39,"Vegetarian, Carbs",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+54,good-for-youcornbread,35,3,178,4,6,27,"Vegetarian, Carbs",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+55,savory brown rice,35,3,246,7,5,43,"Vegetarian, Carbs",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+56,beef steak with carrots and mint,30,2,191,19,9,9,"Beef, Protein",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+57,broiled sirloin with spicy mustard and apple chutney,45,2,285,23,8,32,"Beef, Protein",https://healthyeating.nhlbi.nih.gov/pdfs/Dinners_Cookbook_508-compliant.pdf
+58,coco banana smoothie,10,1,539,37,25,50,Vegetarian,https://www.marriedtomymacros.com/breakfast/2021/5/16/coco-banana-protein-smoothie-high-and-low-calorie-options
+59,soft boiled eggs,15,1,79,6,5,0,Vegetarian,https://www.marriedtomymacros.com/breakfast/2021/5/1/perfect-soft-and-hard-boiled-egg
+60,sweet potato toast,20,1,411,24,19,36,Vegetarian,https://www.marriedtomymacros.com/breakfast/2021/4/3/air-fryer-sweet-potato-toast
+61,breakfast burritos,30,1,417,29,18,36,"Eggs, pork",https://www.marriedtomymacros.com/breakfast/2021/3/22/freezer-breakfast-burritos

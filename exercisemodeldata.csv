@@ -1,0 +1,30 @@
+Exercise,Time Requirement (mins),Chest,Triceps,Back,Shoulders,Biceps,Legs,Core
+Bench Press,20,3,2,0,0,0,0,0
+Dumbell Press,15,3,1,0,0,0,0,0
+Chest Flys,10,2,0,0,0,0,0,0
+Dips,5,1,1,0,0,0,0,0
+Pushups,5,1,1,0,0,0,0,0
+Tricep Extension,10,0,2,0,0,0,0,0
+Tricep Pushdown,10,0,2,0,0,0,0,0
+Pullups,10,0,0,2,0,0,0,0
+Barbell Row,15,0,0,2,0,0,0,0
+Deadlift,20,0,0,1,0,0,1,0
+Cable Row,10,0,0,1,0,0,0,0
+Lat Pulldown,15,0,0,2,0,0,0,0
+Dumbell Bicep Curl,10,0,0,0,0,2,0,0
+Dumbell Hammer Curl,10,0,0,0,0,2,0,0
+Preacher Curl,10,0,0,0,0,2,0,0
+Dumbell Shoulder Press,15,0,1,0,2,0,0,0
+Military Press,20,0,1,0,2,0,0,0
+Lateral Raises,10,0,0,0,2,0,0,0
+Front Raises,5,0,0,0,1,0,0,0
+Rear Delt Flys,5,0,0,0,1,0,0,0
+Barbell Squat,25,0,0,0,0,0,2,0
+Leg Press,20,0,0,0,0,0,2,0
+Leg Extension,10,0,0,0,0,0,1,0
+Hamstring Curl,10,0,0,0,0,0,1,0
+Romanian Deadlift,15,0,0,0,0,0,1,0
+Calf Raises,5,0,0,0,0,0,1,0
+Leg Raises,5,0,0,0,0,0,0,1
+Sit Ups ,5,0,0,0,0,0,0,1
+Russian Twists,5,0,0,0,0,0,0,1

@@ -1,0 +1,451 @@
+text,label
+"How many calories should I eat to lose weight?",CreateNutritionPlan
+"What should my daily protein intake be?",CreateNutritionPlan
+"What's my target calorie intake if I want to gain muscle?",CreateNutritionPlan
+"Plan my macros for a weight loss goal of 10 pounds.",CreateNutritionPlan
+"Need a diet plan that fits 3000 daily calories.",CreateNutritionPlan
+"How should I adjust my carbs for endurance training?",CreateNutritionPlan
+"Layout my nutrition needs for a low-fat diet.",CreateNutritionPlan
+"Can you give me a workout plan for the gym?",CreateWorkoutPlan
+"What's a good home exercise routine for beginners?",CreateWorkoutPlan
+"Sketch me a weekly workout routine for muscle gain.",CreateWorkoutPlan
+"Can you create a 5-day split workout for me?",CreateWorkoutPlan
+"I'd like a workout schedule for toning my body.",CreateWorkoutPlan
+"What's a good workout plan for someone over 50?",CreateWorkoutPlan
+"Draft a workout plan that I can do in 20 minutes a day.",CreateWorkoutPlan
+"What meal can I have for lunch that's high in protein but low in carbs?",RecommendMeal
+"What are some healthy meal options for breakfast?",RecommendMeal
+"Suggest a high-fiber dinner option for tonight.",RecommendMeal
+"I need a post-workout meal recommendation.",RecommendMeal
+"Give me a meal idea that is under 500 calories.",RecommendMeal
+"What's a good protein-rich snack?",RecommendMeal
+"I need a quick healthy breakfast option, any ideas?",RecommendMeal
+"Give me an exercise to strengthen my core.",RecommendExercise
+"What's a good move for targeting my back muscles?",RecommendExercise
+"Can you suggest an exercise to improve my flexibility?",RecommendExercise
+"What is a good strength training exercise for beginners?",RecommendExercise
+"I want an exercise that targets the lower abs.",RecommendExercise
+"Recommend a plyometric exercise for explosive power.",RecommendExercise
+"Show me an exercise to relieve lower back pain.",RecommendExercise
+"How much sugar is in an apple?",QueryFood
+"Tell me the calories in grilled salmon.",QueryFood
+"How many carbs are in brown rice?",QueryFood
+"What is the nutritional content of avocado?",QueryFood
+"Is quinoa a good source of protein?",QueryFood
+"Calculate the calories in a banana smoothie.",QueryFood
+"Check the fat content in almond butter.",QueryFood
+"Does cycling work out the leg muscles?",QueryExercise
+"What muscle group does the bench press work?",QueryExercise
+"What muscles does a plank exercise work?",QueryExercise
+"Which exercise can help improve my running speed?",QueryExercise
+"Tell me exercises that can strengthen my hamstrings.",QueryExercise
+"Identify the primary muscles used in a pull-up.",QueryExercise
+"Explain the benefits of deadlifts.",QueryExercise
+"What's a good home exercise routine for beginners?",CreateWorkoutPlan
+"What's my target calorie intake if I want to gain muscle?",CreateNutritionPlan
+"Design a macro plan for someone on a vegan diet.",CreateNutritionPlan
+"How much protein do I need if I'm trying to bulk up?",CreateNutritionPlan
+"Adjust my meal plan for intermittent fasting.",CreateNutritionPlan
+"Provide a high-protein vegetarian meal plan.",CreateNutritionPlan
+"Create a calorie surplus diet for weight gain.",CreateNutritionPlan
+
+"Give me a 3-day exercise routine for weight loss.",CreateWorkoutPlan
+"Plan a full body workout routine for me.",CreateWorkoutPlan
+"Develop a strength training program for a beginner.",CreateWorkoutPlan
+"Outline a cardio plan for someone with knee pain.",CreateWorkoutPlan
+"Create a workout plan for improving my mile run time.",CreateWorkoutPlan
+
+"Propose a meal for someone cutting carbs.",RecommendMeal
+"Offer a meal suggestion rich in omega-3 fatty acids.",RecommendMeal
+"Recommend a high-energy breakfast for athletes.",RecommendMeal
+"Suggest a balanced meal for a pre-diabetic.",RecommendMeal
+"Provide a meal idea that's gluten-free and high in fiber.",RecommendMeal
+
+"Recommend a bodyweight exercise for arm strength.",RecommendExercise
+"Suggest a cardio exercise that's low impact.",RecommendExercise
+"Give me an exercise to help with core strength.",RecommendExercise
+"Show me a stretching exercise for post-workout.",RecommendExercise
+"Propose an exercise routine for improving balance.",RecommendExercise
+
+"How much fiber is in a serving of oats?",QueryFood
+"Give me the nutritional breakdown of tofu.",QueryFood
+"Tell me the calorie count for a slice of whole grain bread.",QueryFood
+"List the vitamins in a serving of blueberries.",QueryFood
+"Detail the protein content in a chicken breast.",QueryFood
+
+"Explain what a lat pulldown targets.",QueryExercise
+"Describe the muscle groups worked by squats.",QueryExercise
+"Identify exercises for the upper back.",QueryExercise
+"What's a good exercise for cardiovascular health?",QueryExercise
+"Tell me which exercise is best for core stability.",QueryExercise
+"Construct a diet that helps with muscle retention while losing fat.",CreateNutritionPlan
+"What's a good caloric target for moderate weight loss?",CreateNutritionPlan
+"I need a low-sodium diet plan, can you help with that?",CreateNutritionPlan
+"Show me a meal plan that maximizes iron intake.",CreateNutritionPlan
+"Can you provide a sugar-free diet regimen?",CreateNutritionPlan
+
+"I'd like a training routine for a triathlon.",CreateWorkoutPlan
+"What kind of workout can I do for quick HIIT sessions at home?",CreateWorkoutPlan
+"Plan a low-intensity workout schedule for me.",CreateWorkoutPlan
+"I need a fitness routine that's easy on the joints.",CreateWorkoutPlan
+"Can you draft a training plan for a competitive cyclist?",CreateWorkoutPlan
+
+"Need a recipe for a post-workout shake that's low in sugar.",RecommendMeal
+"What should I eat for a protein-packed lunch?",RecommendMeal
+"Can you suggest a vegan dinner that's high in protein?",RecommendMeal
+"I'm looking for a light, healthy snack. Any ideas?",RecommendMeal
+"Recommend a hydrating drink for my workout days.",RecommendMeal
+
+"What's an effective exercise for targeting love handles?",RecommendExercise
+"I want an exercise to improve my sprinting power.",RecommendExercise
+"Give me a kettlebell exercise for full-body workout.",RecommendExercise
+"Can you suggest a good warm-up exercise routine?",RecommendExercise
+"I need an exercise plan focusing on body flexibility.",RecommendExercise
+
+"How many calories are there in a bowl of mixed nuts?",QueryFood
+"What's the protein content in a cup of Greek yogurt?",QueryFood
+"Can you tell me the carbs present in sweet potatoes?",QueryFood
+"Detail the nutritional facts of a quinoa salad.",QueryFood
+"Assess the calorie impact of adding avocado to my meals.",QueryFood
+
+"What muscle groups does the overhead press work?",QueryExercise
+"Which exercise should I include for lower chest development?",QueryExercise
+"Is swimming good for working out the entire body?",QueryExercise
+"Detail the muscles involved in a bicycle kick.",QueryExercise
+"Provide an exercise option for strengthening the core without equipment.",QueryExercise
+"Help me plan a diet that's good for my heart.",CreateNutritionPlan
+"Tailor a low glycemic index meal plan for me.",CreateNutritionPlan
+"Calculate my daily caloric intake for steady weight loss.",CreateNutritionPlan
+"Can you make a meal plan that avoids nightshade vegetables?",CreateNutritionPlan
+"Design a diet to help me lower my cholesterol.",CreateNutritionPlan
+
+"Create a bodybuilding routine for the off-season.",CreateWorkoutPlan
+"Draft a swimming workout plan for endurance training.",CreateWorkoutPlan
+"I need a workout schedule that targets core and stability.",CreateWorkoutPlan
+"Can you provide a circuit training routine for fat loss?",CreateWorkoutPlan
+"Give me a four-week progressive overload lifting plan.",CreateWorkoutPlan
+
+"Offer me a high-calorie vegan meal for muscle building.",RecommendMeal
+"Suggest a keto-friendly snack that's easy to prepare.",RecommendMeal
+"I'd like a meal suggestion that's high in calcium.",RecommendMeal
+"What's a good complex carbohydrate meal for energy?",RecommendMeal
+"Can you recommend a pre-run meal for endurance?",RecommendMeal
+
+"Show me an exercise for toning my glutes at home.",RecommendExercise
+"What is a good resistance band workout for my arms?",RecommendExercise
+"Suggest an exercise for increasing ankle strength.",RecommendExercise
+"I want to work on my lateral movement, any exercise recommendations?",RecommendExercise
+"Give me a compound exercise that I can do with dumbbells.",RecommendExercise
+
+"How many calories are in homemade vegetable soup?",QueryFood
+"List the nutritional benefits of eating salmon.",QueryFood
+"Give me the macros for a turkey and cheese sandwich.",QueryFood
+"Can you find out how much protein is in an egg white?",QueryFood
+"What are the nutritional downsides of processed foods?",QueryFood
+
+"What's the best exercise for a full-body workout with no equipment?",QueryExercise
+"Can you explain the benefits of compound exercises versus isolation?",QueryExercise
+"What kind of stretches should I do for tight hamstrings?",QueryExercise
+"Which exercise helps improve cardiovascular endurance?",QueryExercise
+"Provide an exercise alternative to burpees that's easier on the knees.",QueryExercise
+"Create a nutrition plan for me",CreateNutritionPlan
+"I need a workout routine",CreateWorkoutPlan
+"What should I eat for lunch?",RecommendMeal
+"Tell me an exercise for my core",RecommendExercise
+"How many calories are in a banana?",QueryFood
+"What muscles does a push-up work?",QueryExercise
+"Give me a diet to follow",CreateNutritionPlan
+"What is a good weekly exercise plan?",CreateWorkoutPlan
+"What's a healthy dinner option?",RecommendMeal
+"Suggest a leg exercise",RecommendExercise
+"Check the protein in chicken breast",QueryFood
+"Which exercise is best for biceps?",QueryExercise
+"Help me with a meal guide",CreateNutritionPlan
+"Plan my gym activities",CreateWorkoutPlan
+"I want a meal idea for breakfast",RecommendMeal
+"Give me a workout for my back",RecommendExercise
+"Nutritional info of avocado, please",QueryFood
+"Exercises for lower back pain?",QueryExercise
+"Can you make a food plan?",CreateNutritionPlan
+"What should I do for cardio?",CreateWorkoutPlan
+"What can I eat that's high in iron?",RecommendMeal
+"Find a stretching exercise",RecommendExercise
+"Calories in a slice of pizza?",QueryFood
+"Best workout for abs?",QueryExercise
+"Need a diet for muscle gain",CreateNutritionPlan
+"Show me exercises for the week",CreateWorkoutPlan
+"Meal recommendation for high protein",RecommendMeal
+"Exercise to improve flexibility?",RecommendExercise
+"Protein content in lentils?",QueryFood
+"What's a good warm-up exercise?",QueryExercise
+"Make me a diet chart",CreateNutritionPlan
+"I want a meal plan",CreateNutritionPlan
+"Need a personalized nutrition guide",CreateNutritionPlan
+"Set up a diet for me",CreateNutritionPlan
+"Plan my daily meals",CreateNutritionPlan
+
+"Give me a fitness routine",CreateWorkoutPlan
+"I'm looking for a workout program",CreateWorkoutPlan
+"Need a weekly exercise plan",CreateWorkoutPlan
+"Arrange a gym schedule for me",CreateWorkoutPlan
+"Design a training regimen",CreateWorkoutPlan
+
+"Suggest a good meal option",RecommendMeal
+"What's a healthy meal I can eat?",RecommendMeal
+"I need a meal suggestion",RecommendMeal
+"Tell me what to eat for dinner",RecommendMeal
+"Propose a dish for high protein",RecommendMeal
+
+"Give me a strength exercise",RecommendExercise
+"What workout should I do today?",RecommendExercise
+"I want an exercise recommendation",RecommendExercise
+"Need an exercise for weight loss",RecommendExercise
+"Find me a cardio exercise",RecommendExercise
+
+"What's the calorie count of an apple?",QueryFood
+"Calories in a slice of pizza?",QueryFood
+"Nutritional value of oatmeal?",QueryFood
+"Check calories in a chocolate bar",QueryFood
+"How much protein is in tofu?",QueryFood
+
+"Which muscles does a squat work?",QueryExercise
+"What does a pull-up target?",QueryExercise
+"Muscles involved in deadlift?",QueryExercise
+"Main muscles used in a plank?",QueryExercise
+"What does jogging work out?",QueryExercise
+"Draft a healthy eating plan",CreateNutritionPlan
+"Construct my daily calorie plan",CreateNutritionPlan
+"Outline my meal strategy",CreateNutritionPlan
+"Develop a diet schedule for me",CreateNutritionPlan
+"Generate a nutrition guide",CreateNutritionPlan
+
+"I need a weekly workout timetable",CreateWorkoutPlan
+"Formulate a fitness strategy for me",CreateWorkoutPlan
+"Build my exercise agenda",CreateWorkoutPlan
+"Organize my workout sessions",CreateWorkoutPlan
+"Compose a physical activity plan",CreateWorkoutPlan
+
+"What should I have for a healthy snack?",RecommendMeal
+"Give me a food recommendation",RecommendMeal
+"Need a suggestion for a nutritious snack",RecommendMeal
+"Offer a healthy breakfast idea",RecommendMeal
+"Provide a meal for high energy",RecommendMeal
+
+"What's a good stretch for today?",RecommendExercise
+"List an exercise for toning",RecommendExercise
+"Point me to a muscle-building activity",RecommendExercise
+"Select an aerobic workout for me",RecommendExercise
+"Advise on an exercise for endurance",RecommendExercise
+
+"Tell me the calories in a bagel",QueryFood
+"How nutritious is broccoli?",QueryFood
+"Detail the calories in a smoothie",QueryFood
+"Inform me about the protein in nuts",QueryFood
+"Assess the fat in fried chicken",QueryFood
+
+"What body part does jogging affect?",QueryExercise
+"Exercise for the shoulders?",QueryExercise
+"Which exercise hits the abs?",QueryExercise
+"Identify a workout for leg muscles",QueryExercise
+"Exercise for improving balance?",QueryExercise
+"Plan my macros for building muscle",CreateNutritionPlan
+"Create a calorie deficit diet for me",CreateNutritionPlan
+"Formulate a vegetarian eating plan",CreateNutritionPlan
+"Set up my meal prep for the week",CreateNutritionPlan
+"Design my diet for weight gain",CreateNutritionPlan
+
+"Build a strength training routine for me",CreateWorkoutPlan
+"Make a cardio schedule for fat loss",CreateWorkoutPlan
+"Prepare a weekly gym workout for me",CreateWorkoutPlan
+"Develop a home workout without equipment",CreateWorkoutPlan
+"Organize a fitness plan for toning",CreateWorkoutPlan
+
+"Tell me what to eat for high protein",RecommendMeal
+"Suggest a dinner for fat loss",RecommendMeal
+"Propose a healthy vegan dish",RecommendMeal
+"Recommend a low-carb breakfast",RecommendMeal
+"Offer a post-workout food idea",RecommendMeal
+
+"Advise an exercise for abs",RecommendExercise
+"Recommend a back strengthening workout",RecommendExercise
+"Find a leg toning exercise for me",RecommendExercise
+"Suggest a stretching routine",RecommendExercise
+"Propose a quick HIIT workout",RecommendExercise
+
+"Calculate the calories in sushi",QueryFood
+"Nutritional facts of a veggie burger?",QueryFood
+"How much sugar is in a soda?",QueryFood
+"Protein content in black beans?",QueryFood
+"Fat percentage in avocado?",QueryFood
+
+"What's an exercise for the chest?",QueryExercise
+"Show a workout for arm strength",QueryExercise
+"Guide me to exercises for core tightening",QueryExercise
+"Exercise options for cardio improvement?",QueryExercise
+"List workouts for lower body strength",QueryExercise
+
+
+"What's the weather like in Paris today?",Unrelated
+"Who was the first president of the United States?",Unrelated
+"Can you help me with my math homework?",Unrelated
+"Tell me a joke about cats.",Unrelated
+"How do I change a car tire?",Unrelated
+"What are the top movies of 2022?",Unrelated
+"Who won the football game last night?",Unrelated
+"What's the best way to learn a new language?",Unrelated
+"Can you book me a flight to Tokyo?",Unrelated
+"What are some good books to read for pleasure?",Unrelated
+"What are the latest trends in fashion for this summer?",Unrelated
+"Guide me through fixing a leaky faucet.",Unrelated
+"Explain the process of photosynthesis.",Unrelated
+"How many languages are spoken in the world?",Unrelated
+"What's the quickest route to the downtown library?",Unrelated
+"When is the next solar eclipse expected to occur?",Unrelated
+"Give me tips on public speaking.",Unrelated
+"Recommend some strategies for stress management.",Unrelated
+"What are the best practices for online privacy?",Unrelated
+"How do I bake a chocolate cake?",Unrelated
+"What are the key features of the latest smartphone model?",Unrelated
+"How can I improve my credit score?",Unrelated
+"Describe the plot of 'The Great Gatsby'.",Unrelated
+"What are the Seven Wonders of the World?",Unrelated
+"How do I change the settings on my camera?",Unrelated
+"Can you explain how to play chess?",Unrelated
+"What are the steps to plant a vegetable garden?",Unrelated
+"How do I make a budget for my expenses?",Unrelated
+"What are the rules for recycling in my area?",Unrelated
+"Tell me about the history of the internet.",Unrelated
+"My computer won't start, what should I do?",Unrelated
+"Can you recommend a good science fiction novel?",Unrelated
+"How do I reset my email password?",Unrelated
+"What time does the sunrise tomorrow in New York?",Unrelated
+"Is there a trick to solving a Rubik's cube faster?",Unrelated
+"What are the main differences between crocodiles and alligators?",Unrelated
+"Can you explain the rules of cricket?",Unrelated
+"What's the best way to clean a laptop screen?",Unrelated
+"How do you change a flat tire on a bicycle?",Unrelated
+"What are some effective study techniques for exams?",Unrelated
+"Can you help me understand quantum physics?",Unrelated
+"What should I look for when buying a used car?",Unrelated
+"How can I train my dog to sit?",Unrelated
+"What's the easiest way to learn to play the guitar?",Unrelated
+"What are the ingredients for a mojito cocktail?",Unrelated
+"How can I improve my memory?",Unrelated
+"What are the best apps for organizing daily tasks?",Unrelated
+"How often should I water indoor plants?",Unrelated
+"What are the top tourist attractions in Rome?",Unrelated
+"How do I make homemade ice cream?",Unrelated
+"Is there a strategy for winning at Monopoly?",Unrelated
+"What are some tips for taking professional photos with my phone?",Unrelated
+"How can I learn to meditate at home?",Unrelated
+"What are the safety precautions for rock climbing?",Unrelated
+"Can you teach me how to knit a scarf?",Unrelated
+"How should I prepare for a job interview?",Unrelated
+"What are the visa requirements for traveling to Japan?",Unrelated
+"How do I fix a leak in my inflatable pool?",Unrelated
+"What's the historical significance of the Great Wall of China?",Unrelated
+"Can you explain how a mortgage works?",Unrelated
+"Where can I find the latest box office movie statistics?",Unrelated
+"What are some common phrases in sign language?",Unrelated
+"How do I replace a broken tile in my bathroom?",Unrelated
+"Can you explain the difference between effect and affect?",Unrelated
+"What are the steps to brew homemade beer?",Unrelated
+"What's the process for renewing a passport?",Unrelated
+"How do you play the card game 'Bridge'?",Unrelated
+"Can you give me a summary of 'War and Peace'?",Unrelated
+"What are the most effective ways to reduce household waste?",Unrelated
+"What's the procedure to get a driver's license?",Unrelated
+"How do I backup my computer to an external hard drive?",Unrelated
+"Can you list some fun facts about Mars?",Unrelated
+"What should I check when my Wi-Fi connection is slow?",Unrelated
+"How do I prepare a legal will?",Unrelated
+"What are the best practices for cybersecurity?",Unrelated
+"How do I start a podcast?",Unrelated
+"What are some natural remedies for a headache?",Unrelated
+"How can I remove a stain from a silk shirt?",Unrelated
+"What's the best way to learn a musical instrument?",Unrelated
+"How do I organize a fundraising event?",Unrelated
+"Can you tell me about the history of the Olympic Games?",Unrelated
+"How do I make a compost bin at home?",Unrelated
+"What are the rules for naming stars?",Unrelated
+"How can I increase the battery life of my smartphone?",Unrelated
+"What's the best way to pack a suitcase?",Unrelated
+"How do I write a cover letter for my resume?",Unrelated
+"What are the steps to adopt a pet from a shelter?",Unrelated
+"How can I learn calligraphy?",Unrelated
+"Can you guide me through setting up a smart home?",Unrelated
+"What are the tips for a successful garage sale?",Unrelated
+
+"How many calories in 200 grams of spaghetti",QueryFood
+"What's the nutritional information of 2 pounds of beef",QueryFood
+"How many vitamins are in 5 kg of apples",QueryFood
+"Can you tell me the protein content in 6 ounces of chicken",QueryFood
+"I need information on 3 g of nuts",QueryFood
+"What are the fats in 4 lb of salmon",QueryFood
+"Calculate the carbs in 250 g of rice",QueryFood
+"What is the sugar level in 1.5 kg of mangoes",QueryFood
+"How much fiber in 300 grams of broccoli",QueryFood
+"Show me the calories in 8 oz of turkey",QueryFood
+"I want to know about 10 pounds of pork fat content",QueryFood
+"Provide details on 7 lb of tomatoes",QueryFood
+"What are the proteins in 12 ounces of tofu",QueryFood
+"Tell me about 500 grams of avocado",QueryFood
+"Find the vitamin C in 2 kg of oranges",QueryFood
+"How many calories are in 100 g of blueberries",QueryFood
+"Determine the fat content in 200 lb of cheese",QueryFood
+"What is the sodium amount in 150 g of ham",QueryFood
+"Find out the calcium in 3 kg of yogurt",QueryFood
+"How many antioxidants in 400 grams of blueberries",QueryFood
+"Can you tell me the iron level in 2.5 pounds of spinach",QueryFood
+"I need the protein count in 5 ounces of lentils",QueryFood
+"Show the vitamin A in 1 lb of carrots",QueryFood
+"List the nutrients in 600 grams of quinoa",QueryFood
+"Provide the calorie information for 250 oz of fish",QueryFood
+"What is the fiber content in 1.2 kg of oats",QueryFood
+"How much magnesium is in 1.5 pounds of almonds",QueryFood
+"Calculate the carbohydrate level in 300 grams of potatoes",QueryFood
+"Check the amount of zinc in 750 g of pumpkin seeds",QueryFood
+"Tell me the folic acid content in 2 kg of spinach",QueryFood
+"What are the vitamins in 4 ounces of walnuts",QueryFood
+"Find the protein count in 500 grams of tofu",QueryFood
+"I want to know the sugar content in 200 oz of grapes",QueryFood
+"Show the calcium levels in 100 lb of milk",QueryFood
+"Can you provide the fat amount in 3 kg of avocado",QueryFood
+"List the fiber content in 250 grams of black beans",QueryFood
+"Evaluate the potassium content in 600 g of bananas",QueryFood
+"What is the cholesterol amount in 2.5 pounds of shrimp",QueryFood
+"Assess the vitamin B12 in 300 grams of salmon",QueryFood
+"Determine the iron level in 1 kg of lentils",QueryFood
+"How much sodium is in 4 ounces of cheese",QueryFood
+"Can you calculate the fiber in 250 g of oats",QueryFood
+"Show me the vitamin D in 5 lb of mushrooms",QueryFood
+"I need the protein amount in 100 grams of beef",QueryFood
+"Find out the carbohydrate levels in 3 kg of rice",QueryFood
+"List the fat content in 200 oz of olive oil",QueryFood
+
+"Recommend an exercise for leg strength.",RecommendExercise
+"Which exercise is best for toning arms?",RecommendExercise
+"Give me an exercise to strengthen my core.",RecommendExercise
+"What's a good move for targeting my back muscles?",RecommendExercise
+"Can you suggest an exercise to improve my flexibility?",RecommendExercise
+"What is a good strength training exercise for beginners?",RecommendExercise
+"I want an exercise that targets the lower abs.",RecommendExercise
+"Recommend a plyometric exercise for explosive power.",RecommendExercise
+"Show me an exercise to relieve lower back pain.",RecommendExercise
+"Recommend an exercise that targets legs and back.",RecommendExercise
+"What are exercises that target chest?",RecommendExercise
+"Can you suggest a good cardio exercise?",RecommendExercise
+"Give me an exercise for improving balance.",RecommendExercise
+"What is a suitable exercise for shoulder strengthening?",RecommendExercise
+"Which exercises are effective for full-body toning?",RecommendExercise
+"Suggest a yoga pose for stress relief.",RecommendExercise
+"What are some exercises to improve posture?",RecommendExercise
+"Recommend a stretching exercise for runners.",RecommendExercise
+"Can you suggest an exercise for hip flexibility?",RecommendExercise
+"What's a good exercise for building calf muscles?",RecommendExercise
+"Give me an exercise that targets biceps.",RecommendExercise
+"Suggest an exercise for improving endurance.",RecommendExercise
+"What are some exercises for a flat stomach?",RecommendExercise
+"Recommend a beginner-friendly exercise for weight loss.",RecommendExercise
+"Show me an exercise to increase upper body strength.",RecommendExercise
+
